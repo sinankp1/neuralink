@@ -1,0 +1,301 @@
+body{
+    margin: 0;
+}
+.one{
+    background-color: #b4bdcb;
+    width: 100%;
+    height: 660px;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    margin-top: 60px;
+    display: flex;
+    position: absolute;
+}
+.logo{
+    margin-left: 60px;
+    width: 57px;
+    height: 36px;
+}
+.navigation{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+.nav-item{
+    background-position: 100%;
+    padding-right: 2px;
+}
+.navlink{
+    color: #fff;
+    text-decoration: none;
+    font: 14px DIN, Helvetica, Arial, sans-serif;
+    text-align: right;
+    font-weight: 100;
+}
+.mynav{
+    float: right;
+    margin-left: 1246px;
+    margin-top: -10px;
+}
+.mainimg{
+    max-height: 90%;
+    margin-left: 290px;
+}
+.content-1{
+    position: absolute;
+    float: left;
+    width: 1399px;
+    height: 310px;
+    margin-top: 157px;
+    margin-left: 60px;
+    font-family: "Untitled Sans",Helvetica,Arial,sans-serif;
+    font-size: xx-large;
+    font-weight: 500;
+    color: #fff;
+}
+.content-2{
+    float: left;
+    position: absolute;
+    height: 50px;
+    width: 427px;
+    margin-top: 550px;
+    margin-left: 60px;
+}
+.line{
+    height: 2px;
+    width: 100%;
+    background-color: #fff;
+}
+.links{
+    margin-top: 23px;
+    height: 24px;
+    width: 100%;
+    font-family: "DIN",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+.linktext{
+    color: #fff;
+    text-decoration: none;
+}
+.two{
+    display: flex;
+    width: 100%;
+    height: 730px;
+}
+.red{
+    height: 100%;
+    width: 506px;
+    background-color: #c9a3a4;
+}
+.red-1{
+    width: 506px;
+    padding-top: 60px;
+    height: 128px;
+}
+.red-1-1{
+    width: 386px;
+    height: 128px;
+    margin-left: 60px;
+    font-family: "Tiempos Headline","Times","Georgia",serif;
+    font-size: 45px;
+    line-height: 47px;
+    color: #fff;
+    
+}
+.red-2{
+    width: 506px;
+    height: 457px; 
+}
+.fig{
+    position: absolute;
+    font-family: "DIN",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 394px;
+    margin-top: 7px;
+}
+.red-3{
+    width: 506px;
+    height: 85px; 
+}
+.science{
+    font-family: "DIN",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 60px;
+    text-decoration: none;
+}
+.blue{
+    height: 100%;
+    width: 506px;
+    background-color: #a7ceef;
+}
+.blue-1{
+    width: 506px;
+    padding-top: 60px;
+    height: 128px;
+}
+.blue-1-1{
+    width: 386px;
+    height: 128px;
+    margin-left: 60px;
+    font-family: "Tiempos Headline","Times","Georgia",serif;
+    font-size: 45px;
+    line-height: 47px;
+    color: #fff;
+    
+}
+.blue-2{
+    width: 506px;
+    height: 457px; 
+}
+.blue-3{
+    width: 506px;
+    height: 85px; 
+}
+.green{
+    height: 100%;
+    width: 507px;
+    background-color: #acb5ac;
+}
+.green-1{
+    width: 506px;
+    padding-top: 60px;
+    height: 128px;
+}
+.green-1-1{
+    width: 386px;
+    height: 128px;
+    margin-left: 60px;
+    font-family: "Tiempos Headline","Times","Georgia",serif;
+    font-size: 45px;
+    line-height: 47px;
+    color: #fff;
+    
+}
+.green-2{
+    width: 506px;
+    height: 457px; 
+}
+.green-3{
+    width: 447px;
+    height: 85px; 
+}
+.three{
+    width: 100%;
+    height: 650px;
+}
+.three-1{
+    height: 530px;
+    width: 453px;
+    margin-top: 60px;
+    margin-left: 60px;
+    position: absolute;
+}
+.three-a{
+    height: 128px;
+    width: 100%;
+}
+.three-b{
+    width: 365px;
+    height: 96px;
+    margin-top: 30px;
+    font-family: "Untitled Sans",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    color: #fff;
+    line-height: 24px;
+}
+.three-c{
+    margin-top: 250px;
+    height: 25px;
+    width: 100%;
+}
+.three-a1{
+    font-family: "Tiempos Headline","Times","Georgia",serif;
+    font-size: 45px;
+    line-height: 47px;
+    color: #fff;
+}
+.three-c1{
+    font-family: "DIN",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+.footer{
+    height: 242px;
+    display: flex;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.logo1{
+    width: 57px;
+    height: 36px;
+    margin-top: 68px;
+}
+.rights{
+    width: 216px;
+    height: 86px;
+    margin-top: 64px;
+    font-family: "Untitled Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    color: #979d9d;
+    line-height: 17px;
+    margin-left: 67px;
+}
+.footnav{
+    width: 141px;
+    height: auto;
+    margin-left: 375px;
+}
+.navlink1{
+    color: #979d9d;
+    text-decoration: none;
+    font: 14px DIN, Helvetica, Arial, sans-serif;
+    text-align: right;
+    font-weight: 100;
+}
+.navigation1{
+    list-style-type: none;
+}
+.mynav1{
+    margin-top: 60px;
+}
+.mail{
+    width: 453px;
+    height: 86px;
+    margin-left: 125px;
+    margin-top: 60px;
+}
+.m{
+    color: #979d9d;
+    font: 14px DIN, Helvetica, Arial, sans-serif;
+    border: none;
+    width: 390px;
+    height: 24px;
+
+}
+.email{
+    margin-top: 20px;
+}
+.line2{
+    height: 1px;
+    background-color: #979d9d;
+    width: 453px;
+}
+.gray{
+    height: 14px;
+    width: 35px;
+}
+.btn{
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
